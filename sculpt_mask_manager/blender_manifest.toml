@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+# 扩展的唯一标识符
+id = "sculpt_mask_manager"
+version = "1.0.0"
+name = "Sculpt Mask Manager"
+tagline = "Minimalist sculpt mask management tool"
+maintainer = "Sun chuanxiang"
+type = "add-on"
+
+# 官方分类
+website = "https://extensions.blender.org/add-ons/sculpt_mask_manager/" # 占位符，上传后可修改
+
+# 许可证 (SPDX 格式)
+license = ["SPDX:GPL-3.0-or-later"]
+
+# 兼容性
+blender_version_min = "4.2.0"
+
+# 分类 (使用官方支持的标签)
+tags = ["Sculpt"]
