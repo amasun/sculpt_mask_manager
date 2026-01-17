@@ -1,8 +1,13 @@
 # Sculpt Mask Manager
 
+<img src="images/icons.png" width="128" alt="Icon">
+
 A minimalist sculpt mask management tool for Blender 4.2+.
 
 ## Features
+
+![Features Showcase](images/feather.jpg)
+
 - **Save/Load Masks**: Save current sculpt mask as vertex groups and load them back.
 - **High Performance**: Uses NumPy for fast data processing on high-poly meshes.
 - **Minimalist UI**: Access via N-panel (Sculpt tab) or Alt+M Pie Menu.
